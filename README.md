@@ -7,6 +7,7 @@ Features
  --Search Employee  
  --Department Filter
  --Sort by Salary
+ 
  Technologies Used
     --Python  
     --MySQL
